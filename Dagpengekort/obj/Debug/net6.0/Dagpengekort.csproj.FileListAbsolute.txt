@@ -1,0 +1,17 @@
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\bin\Debug\net6.0\Dagpengekort.exe
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\bin\Debug\net6.0\Dagpengekort.deps.json
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\bin\Debug\net6.0\Dagpengekort.runtimeconfig.json
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\bin\Debug\net6.0\Dagpengekort.dll
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\bin\Debug\net6.0\Dagpengekort.pdb
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.csproj.AssemblyReference.cache
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.csproj.ResolveComReference.cache
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.AssemblyInfoInputs.cache
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.AssemblyInfo.cs
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.csproj.CoreCompileInputs.cache
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.dll
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\refint\Dagpengekort.dll
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.pdb
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\Dagpengekort.genruntimeconfig.cache
+C:\Users\KOM\Desktop\Opgaver\Dagpenge kort\DagpengekortApp\Dagpengekort\obj\Debug\net6.0\ref\Dagpengekort.dll
